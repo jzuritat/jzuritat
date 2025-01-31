@@ -1,4 +1,14 @@
-## Hi there 👋
+## About me:
+
+Hi, I'm Jose! I come from Ecuador and am currently doing my PhD in Comparative Politics at the University of Bergen, Norway. My dissertation deals with the Stability of Pre-electoral coalitions in Latin America. I love to read romantic, classic and mystery novels (I can't get enough). I'm fluent in Spanish, English and French. I'm still developing my coding skills in case I need to transition to an industry job if academia doesn't want to keep me. 
+
+## Most proud moment: 
+
+Fainting while bouldering at 3m above the ground, waking up after a "few" seconds and kept bouldering for another hour... haven't stoped since. 
+
+## Makes no sense yet is real:
+
+Coming from the sunniest country in the world, I often get sun sick / sun stroked and I have a (severe) Vitamin-D deficiency (fun) !!
 
 <!--
 **jzuritat/jzuritat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
